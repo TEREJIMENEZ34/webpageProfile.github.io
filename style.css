@@ -1,0 +1,27 @@
+style.css
+html, body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    background: linear-gradient(to bottom, rgba(231, 240, 245, 1) 0%, rgba(170, 221, 235, 1) 100%);
+  }
+
+  .wrapper {
+    background-color: linear-gradient(to bottom, rgba(230, 230, 240, 1) 0%, rgba(170, 221, 235, 1);
+
+
+
+
+
+
+  }
+
+
+
+
+.profile-picture {  
+    border-radius: 50%;
+}
